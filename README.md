@@ -5,6 +5,9 @@ This repo serves as the host for my personal website as well as a source directo
 # Personal Projects
 ## Active
 
+[personal website](https://github.com/codencoding/codencoding.github.io)
+>Website for resume keeping, web dev skill practice, and blog posts?
+
 [web-startpage](https://github.com/codencoding/web-startpage) 
 
 >Startpage site for everyday browsing, includes links to frequently visited websites, personal discord status, and personal calendar events.
