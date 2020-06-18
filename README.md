@@ -17,7 +17,7 @@ This repo serves as the host for my personal website as well as a source directo
 
 >A website containing tabs linking to various useful sites or local files to facilitate being the DM in Dungeons and Dragons.
 
-## Deprecated
+## Inactive
 
 [calendar_feed](https://github.com/codencoding/calendar_feed)
 
