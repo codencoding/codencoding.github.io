@@ -243,4 +243,8 @@ a.anchor {
         height: 20vw;
         width: 20vw;
     }
+
+    a.anchor {
+        top: -10vh;
+    }
 }
