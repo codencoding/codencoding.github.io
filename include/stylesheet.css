@@ -248,3 +248,10 @@ a.anchor {
         top: -10vh;
     }
 }
+
+@media screen and (orientation: landscape) {
+    .feed {
+        margin-left: 0.5vh;
+        margin-right: 0.5vh;
+    }
+}
