@@ -118,8 +118,8 @@ body {
     padding-top: 20px;
     padding-left: 10%;
     padding-right: 10%;
-    margin-left: 2px;
-    margin-right: 2px;
+    margin-left: 0.5vw;
+    margin-right: 0.5vw;
 }
 
 .navbar > * {
@@ -199,8 +199,8 @@ a.anchor {
     border-radius: 50%;
     border: 3px var(--tertiary-color) solid;
     background-size: contain;
-    height: 70px;
-    width: 70px;
+    height: 90px;
+    width: 90px;
     float: right;
     box-shadow:  1px 3px var(--accent-color);
 }
@@ -220,4 +220,27 @@ a.anchor {
 
 .content-div > *:last-child {
     margin-bottom: 40px;
+}
+
+@media screen and (orientation: portrait) {
+    .content-div > p {
+        font-size: 26pt;
+    }
+
+    .navbar {
+        height: 10vh;
+    }
+
+    .navbar > * > a {
+        font-size: xx-large;
+    }
+
+    .header > h1 {
+        font-size: 100pt;
+    }
+
+    .img-link {
+        height: 20vw;
+        width: 20vw;
+    }
 }
