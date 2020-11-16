@@ -263,6 +263,7 @@ a.anchor {
 }
 
 .embed-container {
+    background-color: white;
     position: relative;
     padding-bottom: 130%;
     height: 0;
@@ -271,7 +272,6 @@ a.anchor {
 }
 
 .embed-container embed {
-    background-color: white;
     position: absolute;
     top: 0;
     left: 0;
