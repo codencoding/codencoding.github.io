@@ -8,9 +8,15 @@ This repo serves as the host for my personal website as well as a source directo
 [personal website](https://github.com/codencoding/codencoding.github.io)
 >Website for resume keeping, web dev skill practice, and blog posts?
 
-[web-startpage](https://github.com/codencoding/web-startpage) 
+[web-startpage-v2](https://github.com/codencoding/web-startpage-v2) 
 
->Startpage site for everyday browsing, includes links to frequently visited websites, personal discord status, and personal calendar events.
+>Second attempt at a startpage new-tab site for everyday browsing, includes links to frequently visited websites, personal discord status, and personal calendar events.
+
+## Inactive
+
+[calendar_feed](https://github.com/codencoding/calendar_feed)
+
+>A quick .bat file that scrapes the due dates of homeworks for unique classes recorded on Google Calendar, then reports them with how long until their due dates.
 
 [4chan-image-analysis](https://github.com/codencoding/4chan-image-analysis) 
 
@@ -19,9 +25,3 @@ This repo serves as the host for my personal website as well as a source directo
 [dnd-dm-toolkit](https://github.com/codencoding/dnd-dm-toolkit) 
 
 >A website containing tabs linking to various useful sites or local files to facilitate being the DM in Dungeons and Dragons.
-
-## Inactive
-
-[calendar_feed](https://github.com/codencoding/calendar_feed)
-
->A quick .bat file that scrapes the due dates of homeworks for unique classes recorded on Google Calendar, then reports them with how long until their due dates.
