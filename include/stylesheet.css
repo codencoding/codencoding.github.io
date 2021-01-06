@@ -215,9 +215,8 @@ a.anchor {
 }
 
 .img-link:hover {
-    transition: 0.2s;
-    filter: brightness(1.5);
-    box-shadow:  0px 0px 5px var(--primary-color);
+    transition: 0.3s;
+    scale: 1.1;
 }
 
 .footer {
